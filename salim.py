@@ -1,2 +1,2 @@
 a = 24
-print(a%10)
+print(a//10)
